@@ -1,3 +1,3 @@
 ﻿
-using var game = new Semester1Projekt.Game1();
+using var game = new Semester1Projekt.GameWorld();
 game.Run();
