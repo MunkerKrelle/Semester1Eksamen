@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
 
 namespace Semester1Projekt
 {
@@ -8,6 +9,12 @@ namespace Semester1Projekt
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+       
+        private static List<Button> buttons = new List<Button>();
+        public static SpriteFont font;
+        Vector2 originText;
+        string fontText = "";
+        Vector2 fontLength;
 
         public GameWorld()
         {
@@ -19,7 +26,7 @@ namespace Semester1Projekt
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            buttons.Add(new Button(new Vector2(100, 100), "Quit", Exit));
             base.Initialize();
         }
 
