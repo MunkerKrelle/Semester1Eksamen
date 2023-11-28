@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Semester1Projekt
 {
-    internal class Nexus
+    internal class Nexus : GameObject
     {
+        private int nexusLives;
+
+        //Get og set nexusLives
+
+        public Nexus()
+        {
+
+        }
+
+        public void GameOver()
+        {
+            
+        }
     }
 }
