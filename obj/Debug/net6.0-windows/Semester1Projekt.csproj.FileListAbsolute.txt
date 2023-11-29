@@ -35,3 +35,20 @@ C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\obj\Debug\net6.0-wind
 C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\obj\Debug\net6.0-windows\Semester1Projekt.pdb
 C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\obj\Debug\net6.0-windows\Semester1Projekt.genruntimeconfig.cache
 C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\obj\Debug\net6.0-windows\ref\Semester1Projekt.dll
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_000.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_001.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_002.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_003.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_004.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_005.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_006.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\2D_GOBLIN__Run_007.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\Red Crystal Cluster.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun1.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun2.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun0.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun3.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun4.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun5.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun6.xnb
+C:\Users\Jeppe\OneDrive\Dokumenter\GitHub\Semester1Eksamen\bin\Debug\net6.0-windows\Content\GoblinRun7.xnb

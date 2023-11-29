@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_000.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_001.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_002.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_003.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_004.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_005.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_006.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_007.png</File>
+    <File>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/Red Crystal Cluster.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>GoblinRun0.png</File>
+    <File>GoblinRun1.png</File>
+    <File>GoblinRun2.png</File>
+    <File>GoblinRun3.png</File>
+    <File>GoblinRun4.png</File>
+    <File>GoblinRun5.png</File>
+    <File>GoblinRun6.png</File>
+    <File>GoblinRun7.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
