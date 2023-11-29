@@ -9,12 +9,10 @@ namespace Semester1Projekt
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-       
-        private static List<Button> buttons = new List<Button>();
-        public static SpriteFont font;
-        Vector2 originText;
-        string fontText = "";
-        Vector2 fontLength;
+        public static float DeltaTime { get; private set; }
+        private static List<GameObject> gameObjects;
+        private Tower tower;
+        private Enemy[] enemy;
 
         public GameWorld()
         {
@@ -26,7 +24,19 @@ namespace Semester1Projekt
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            buttons.Add(new Button(new Vector2(100, 100), "Quit", Exit));
+            gameObjects = new List<GameObject>();
+            tower = new Tower();
+            gameObjects.Add(tower);
+
+            enemy = new Enemy[3];
+            enemy[0] = new Enemy();
+            enemy[1] = new Enemy();
+            enemy[2] = new Enemy();
+            gameObjects.Add(enemy[0]);
+            gameObjects.Add(enemy[1]);
+            gameObjects.Add(enemy[2]);
+
+
             base.Initialize();
         }
 
@@ -43,6 +53,16 @@ namespace Semester1Projekt
                 Exit();
 
             // TODO: Add your update logic here
+            DeltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
+
+            foreach (GameObject gameObject in gameObjects)
+            {
+                tower.Update();
+                //enemy.Update();
+                
+            }
+
+            tower.ScanForEnemies(enemy);
 
             base.Update(gameTime);
         }
