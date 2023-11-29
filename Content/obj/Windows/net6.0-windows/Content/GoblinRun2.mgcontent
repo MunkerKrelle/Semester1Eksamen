@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/2D_GOBLIN__Run_002.png</SourceFile>
-  <SourceTime>2023-11-28T13:57:19.0864562+01:00</SourceTime>
+  <SourceTime>2023-11-29T11:15:47.0177792+01:00</SourceTime>
   <DestFile>C:/Users/Jeppe/OneDrive/Dokumenter/GitHub/Semester1Eksamen/Content/bin/Windows/Content/GoblinRun2.xnb</DestFile>
-  <DestTime>2023-11-28T14:22:19.0733442+01:00</DestTime>
+  <DestTime>2023-11-29T11:23:10.5778536+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

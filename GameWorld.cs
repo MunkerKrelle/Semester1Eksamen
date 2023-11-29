@@ -2,6 +2,8 @@
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
+using System.ComponentModel;
 
 namespace Semester1Projekt
 {
@@ -9,8 +11,8 @@ namespace Semester1Projekt
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        private Enemy myEnemy;
-        private Nexus myNexus;
+
+        private List<GameObject> gameObjects;
 
         public GameWorld()
         {
@@ -23,8 +25,13 @@ namespace Semester1Projekt
         {
             // TODO: Add your initialization logic here
 
-            myEnemy = new Enemy(50, new Vector2(50, 400), 5, 10, 1);
-            myNexus = new Nexus();
+            gameObjects = new List<GameObject>();
+
+            gameObjects.Add(new Enemy());
+            gameObjects.Add(new Nexus());
+
+            //myEnemy = new Enemy(50, new Vector2(50, 400), 5, 10, 1);
+            //myNexus = new Nexus();
 
             base.Initialize();
         }
@@ -33,8 +40,8 @@ namespace Semester1Projekt
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            myEnemy.LoadContent(Content);
-            myNexus.LoadContent(Content);
+            //myEnemy.LoadContent(Content);
+            //myNexus.LoadContent(Content);
 
             // TODO: use this.Content to load your game content here
         }
@@ -56,8 +63,8 @@ namespace Semester1Projekt
 
             _spriteBatch.Begin();
 
-            myEnemy.Draw(_spriteBatch);
-            myNexus.Draw(_spriteBatch);
+            //myEnemy.Draw(_spriteBatch);
+            //myNexus.Draw(_spriteBatch);
 
             _spriteBatch.End();
 
