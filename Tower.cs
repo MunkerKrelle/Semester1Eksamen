@@ -41,7 +41,7 @@ namespace Semester1Projekt
                 if (distance <= range && enemy.Health >= 0)
                 {
                     closestEnemy = enemy;
-                    //range = distance;
+                    range = distance;
                 }
                 //code for resetting range to 250
                 
