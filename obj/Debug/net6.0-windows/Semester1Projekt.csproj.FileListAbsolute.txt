@@ -35,3 +35,4 @@ C:\AxP\Github repositories\Semester 1 eksamen\Semester1Eksamen\obj\Debug\net6.0-
 C:\AxP\Github repositories\Semester 1 eksamen\Semester1Eksamen\obj\Debug\net6.0-windows\Semester1Projekt.pdb
 C:\AxP\Github repositories\Semester 1 eksamen\Semester1Eksamen\obj\Debug\net6.0-windows\Semester1Projekt.genruntimeconfig.cache
 C:\AxP\Github repositories\Semester 1 eksamen\Semester1Eksamen\obj\Debug\net6.0-windows\ref\Semester1Projekt.dll
+C:\AxP\Github repositories\Semester 1 eksamen\Semester1Eksamen\obj\Debug\net6.0-windows\Semester1Projekt.sourcelink.json
